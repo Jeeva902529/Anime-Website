@@ -28,3 +28,10 @@ body{
     display: flex;
     flex-direction: row;
 }
+.lead{
+    font-size: medium; 
+    text-decoration: solid;
+}
+.album{
+    background: #000;
+}
